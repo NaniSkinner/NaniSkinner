@@ -1,21 +1,35 @@
-## GM! 👋🏼
 
-<!--
-**NaniSkinner/NaniSkinner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GM! I'm Nani! 👋🏼
 
-Here are some ideas to get you started:
+![Asset 1](https://github.com/user-attachments/assets/280a1000-e6a5-492d-ab16-02452be5ca57)
 
-- 🔭 I’m currently working on Technical Conentent for Mode Network 🌕![Asset 1](https://github.com/user-attachments/assets/5936321d-3fb3-402e-a3d6-b8841ed41d17)
+## About Me 🚀
 
-- 🌱 I’m currently learning about Nevermined 
-- 👯 I’m looking to collaborate on AI Agents 
-- 💬 Ask me about anything you want to learn about 🧠
-- 📫 How to reach me: https://www.naniskinner.com/![Asset 1](https://github.com/user-attachments/assets/a0cb5f28-1de3-489d-9196-9a79eb1b5872)
+I’m a passionate Web3 Content Creator and Developer in Training with experience in JavaScript, Typescript, and creating educational content for Web3 technologies. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative and engaging solutions.
 
+I’m currently diving deep into frontend development, exploring the endless possibilities of Web3 and AI, and documenting my journey to help others learn and grow in this space.
+
+- 🌱 Currently learning: Nevermined AI protocol 🤖
+- 🔭 Working on: Mode Network Technical Content Creation
+- 🌍 Languages: JavaScript, TypeScript, English, Spanish
+- 📫 How to reach me:https://www.naniskinner.com/
 - ⚡ Fun fact: Love being a MOM👧🏻👦🏻, WIFE💞 and CROSSFITTER 💪🏼
 
--->![Asset 1](https://github.com/user-attachments/assets/280a1000-e6a5-492d-ab16-02452be5ca57)
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[Asset 1]" height="100" /></a>
+## My Skills 🧠
 
-![Asset 1](https://github.com/user-attachments/assets/8325fadb-5987-461d-b67e-6fe7a57abaaa)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+
+
+
+
+
+
 
