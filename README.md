@@ -11,7 +11,7 @@ I’m currently diving deep into frontend development, exploring the endless pos
 
 - 🌱 Currently learning: Codding AI apps 🤖
 - 🔭 Working on: Dev3Pack Program Managment, Alchemy Ambassador
-- 🌍 Languages: JavaScript, TypeScript, English, Spanish
+- 🌍 Languages: JavaScript, TypeScript, Solidity, Adobe, English, Spanish
 - 📫 How to reach me:https://www.naniskinner.com/
 - ⚡ Fun fact: Love being a MOM👧🏻👦🏻, WIFE💞 and CROSSFITTER 💪🏼
 
@@ -19,6 +19,8 @@ I’m currently diving deep into frontend development, exploring the endless pos
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
