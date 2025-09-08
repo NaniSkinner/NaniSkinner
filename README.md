@@ -9,8 +9,8 @@ I’m a passionate Web3 Content Creator and Developer in Training with experienc
 
 I’m currently diving deep into frontend development, exploring the endless possibilities of Web3 and AI, and documenting my journey to help others learn and grow in this space.
 
-- 🌱 Currently learning: Nevermined AI protocol 🤖
-- 🔭 Working on: Mode Network Technical Content Creation
+- 🌱 Currently learning: Codding AI apps 🤖
+- 🔭 Working on: Dev3Pack Program Managment, Alchemy Ambassador
 - 🌍 Languages: JavaScript, TypeScript, English, Spanish
 - 📫 How to reach me:https://www.naniskinner.com/
 - ⚡ Fun fact: Love being a MOM👧🏻👦🏻, WIFE💞 and CROSSFITTER 💪🏼
