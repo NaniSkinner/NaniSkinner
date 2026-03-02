@@ -1,19 +1,19 @@
 
-# GM! I'm Nani! 👋🏼
+# Hey! I'm Nani! 
 
 ![Asset 1](https://github.com/user-attachments/assets/280a1000-e6a5-492d-ab16-02452be5ca57)
 
-## About Me 🚀
+## About Me 
 
-I’m a passionate Web3 Content Creator and Developer in Training with experience in JavaScript, Typescript, and creating educational content for Web3 technologies. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative and engaging solutions.
 
-I’m currently diving deep into frontend development, exploring the endless possibilities of Web3 and AI, and documenting my journey to help others learn and grow in this space.
+My journey has taken me from the classroom as a teacher to the command line as a software engineer, but my core mission has always been the same: to empower others through learning. Today, I channel that passion into building technology that can change the future of education.
+I'm part of a brilliant team of three female engineers (LasChicas.ai), and together we're tackling a major challenge in EdTech: creating a scalable PLC framework to support public school teachers. Our approach is rooted in deep research, product-oriented goals, and leveraging the power of AI-first development methodologies.
 
-- 🌱 Currently learning: Codding AI apps 🤖
-- 🔭 Working on: Dev3Pack Program Managment, Alchemy Ambassador
-- 🌍 Languages: JavaScript, TypeScript, Solidity, Adobe, English, Spanish
-- 📫 How to reach me:https://www.naniskinner.com/
-- ⚡ Fun fact: Love being a MOM👧🏻👦🏻, WIFE💞 and CROSSFITTER 💪🏼
+- 🌱 I'm currently... building an enterprise tool for teachers and researching best practices for coding with AI.
+- 💬 Ask me about... EdTech, AI in software development, or my journey from teaching to tech.
+- 💪 Fun fact: My mantra is "if I did not learn something new every day, then it was a wasted day." I live this through coding, reading, and CrossFit.
+
+I'm always open to connecting with fellow builders and innovators. You can find my most up-to-date work on X @NaniSkinner.
 
 ## My Skills 🧠
 
