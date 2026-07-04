@@ -7,7 +7,7 @@
 
 
 My journey has taken me from the classroom as a teacher to the command line as a software engineer, but my core mission has always been the same: to empower others through learning. Today, I channel that passion into building technology that can change the future of education.
-I'm part of a brilliant team of three female engineers ([LasChicas.ai](https://laschicas.ai/)), and together we're tackling a major challenge in EdTech: creating a scalable PLC framework to support public school teachers. Our approach is rooted in deep research, product-oriented goals, and leveraging the power of AI-first development methodologies.
+I'm part of a brilliant team of three female engineers [LasChicas.ai](https://laschicas.ai/), and together we're tackling a major challenge in EdTech: creating a scalable PLC framework to support public school teachers. Our approach is rooted in deep research, product-oriented goals, and leveraging the power of AI-first development methodologies.
 
 - 🌱 I'm currently... building an enterprise tool for teachers and researching best practices for coding with AI.
 - 💬 Ask me about... EdTech, AI in software development, or my journey from teaching to tech.
