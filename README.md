@@ -11,7 +11,7 @@ I'm part of a brilliant team of three female engineers (https://laschicas.ai/), 
 
 - 🌱 I'm currently... building an enterprise tool for teachers and researching best practices for coding with AI.
 - 💬 Ask me about... EdTech, AI in software development, or my journey from teaching to tech.
-- 💪 Fun fact: My mantra is "if I did not learn something new every day, then it was a wasted day." I live this through coding, reading, and CrossFit.
+- 💪 Fun fact: My mantra is "if I did not learn something new every day, then it was a wasted day." I live this through coding, reading, and being a mom ❤️
 
 I'm always open to connecting with fellow builders and innovators. You can find my most up-to-date work on X @NaniSkinner.
 
